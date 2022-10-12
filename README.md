@@ -10,3 +10,6 @@
           Návrh projektu je jeho. Kód je môj 😊. V Projekte som použil
           Vanilla JS s Reactom - useState a React Ikony. 
         </p>
+
+
+https://3react-projekt-reviews.netlify.app/
