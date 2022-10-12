@@ -1,0 +1,70 @@
+body {
+  background: #f1f5f8;
+}
+h1 {
+  color: #104e7a;
+}
+.underline {
+  height: 0.25rem;
+  width: 8rem;
+  background: #49a6e9;
+  margin-left: auto;
+  margin-right: auto;
+}
+article {
+  margin: 5% auto;
+  padding: 30px 0;
+  background-color: white;
+  max-width: 600px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.praca {
+  text-transform: uppercase;
+  color: #49a6e9;
+}
+article p {
+  text-align: center;
+  margin: 10px auto;
+  padding: 10px 35px;
+  color: #617d98;
+}
+.img-container {
+  width: 200px;
+  height: 200px;
+  margin: 20px auto;
+}
+article img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  border-radius: 50%;
+}
+.ikonka {
+  border: 0;
+  background-color: white;
+  font-size: 1.6rem;
+  padding-bottom: 25px;
+}
+.nahodne {
+  border: 0;
+  color: #49a6e9;
+  background-color: #f1f5f8;
+  font-size: 1.6rem;
+  border: 1px solid #49a6e9;
+  border-radius: 1%;
+}
+.nahodne:hover {
+  color: white;
+  background: #49a6e9;
+}
+
+footer {
+  font-size: 1.5rem;
+  color: white;
+  background-color: black;
+}
+.popisProjektu {
+  margin: 20px auto;
+  max-width: 600px;
+  font-size: 1.2rem;
+}
